@@ -1,148 +1,140 @@
 {
-  "module": "Flutter",
-  "month": "November 2026",
+  "technology": "Flutter",
   "project": "Aplikasi Mobile Logbook Magang",
-  "status": "HTML slide deck sesuai SAP",
-  "visual_theme": "Flutter Mobile Paper Craft",
-  "total_sessions": 8,
-  "total_slides": 248,
+  "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer",
+  "source_snapshot": "Portal_Program_Magang_Developer_Agu-Nov_2026.html",
+  "alignment_fields": [
+    "date",
+    "topic",
+    "objective",
+    "activity",
+    "output",
+    "assessment",
+    "evidence"
+  ],
+  "generated_at": "2026-08-03T10:35:24.324143+00:00",
+  "session_count": 8,
+  "total_slides": 304,
   "sessions": [
     {
-      "id": "S01",
-      "code": "FLT-S01",
-      "date": "3 November 2026",
-      "title": "Setup Flutter, Dart Refresher, Widget Tree & Project Structure",
-      "objective": "Menyiapkan environment Flutter dan melakukan doctor check.",
+      "id": "S27",
+      "date": "2026-11-03",
+      "day": "Selasa",
+      "topic": "Setup Flutter, Dart refresher, widget tree, dan project structure",
+      "objective": "Menyiapkan project dan memahami widget tree serta struktur kode dasar Flutter.",
+      "activity": "Doctor check; project setup; stateless/stateful widget; hot reload; folder structure.",
       "output": "Aplikasi awal dan halaman dashboard statis.",
       "assessment": "Checklist setup.",
-      "evidence": [
-        "Repository awal",
-        "Screenshot emulator/device",
-        "Catatan flutter doctor",
-        "Commit dashboard statis"
-      ],
+      "evidence": "Repository + screenshot emulator/device.",
       "file": "S01_Setup_Flutter_Dart_Refresher_Widget_Tree_Project_Structure.html",
-      "slide_count": 31
+      "slide_count": 38,
+      "project": "Aplikasi Mobile Logbook Magang",
+      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer"
     },
     {
-      "id": "S02",
-      "code": "FLT-S02",
-      "date": "5 November 2026",
-      "title": "Layout, Theming, Responsive UI & Navigation",
-      "objective": "Menyusun layout responsif dengan Row, Column, Flex, dan constraints.",
+      "id": "S28",
+      "date": "2026-11-05",
+      "day": "Kamis",
+      "topic": "Layout, theming, responsive UI, dan navigation",
+      "objective": "Menyusun UI responsif dengan theme dan navigasi antarlayar.",
+      "activity": "Row/Column/Flex; constraints; theme; Navigator; route; responsive breakpoint.",
       "output": "Dashboard dan navigasi tiga layar.",
       "assessment": "UI review.",
-      "evidence": [
-        "Screenshot multi-screen",
-        "Kode navigation",
-        "Theme configuration",
-        "Catatan responsive review"
-      ],
+      "evidence": "Screenshot multi-screen + code.",
       "file": "S02_Layout_Theming_Responsive_UI_Navigation.html",
-      "slide_count": 31
+      "slide_count": 38,
+      "project": "Aplikasi Mobile Logbook Magang",
+      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer"
     },
     {
-      "id": "S03",
-      "code": "FLT-S03",
-      "date": "10 November 2026",
-      "title": "Form, Validation, User Input & Local State",
-      "objective": "Membangun form logbook dengan TextFormField.",
+      "id": "S29",
+      "date": "2026-11-10",
+      "day": "Selasa",
+      "topic": "Form, validation, user input, dan state lokal",
+      "objective": "Membangun form tervalidasi dan mengelola state lokal secara tepat.",
+      "activity": "Form; controller; validator; setState/ChangeNotifier; feedback pengguna.",
       "output": "Form logbook dan daftar entri lokal.",
       "assessment": "Practical review.",
-      "evidence": [
-        "Demo form",
-        "Validation evidence",
-        "Kode state lokal",
-        "Screenshot daftar entri"
-      ],
+      "evidence": "Demo form + validation evidence.",
       "file": "S03_Form_Validation_User_Input_Local_State.html",
-      "slide_count": 31
+      "slide_count": 38,
+      "project": "Aplikasi Mobile Logbook Magang",
+      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer"
     },
     {
-      "id": "S04",
-      "code": "FLT-S04",
-      "date": "12 November 2026",
-      "title": "Async Programming, HTTP, JSON, Model & Repository",
-      "objective": "Memahami Future, async, dan await.",
+      "id": "S30",
+      "date": "2026-11-12",
+      "day": "Kamis",
+      "topic": "Async programming, HTTP, JSON, model, dan repository",
+      "objective": "Mengambil data API secara asynchronous dan memetakan JSON ke model.",
+      "activity": "Future; HTTP client; serialization manual; repository abstraction; timeout.",
       "output": "Daftar data dari API.",
       "assessment": "Integration checkpoint.",
-      "evidence": [
-        "API response sample",
-        "App screenshot",
-        "Repository class",
-        "Error handling sample"
-      ],
+      "evidence": "API response + app screenshot.",
       "file": "S04_Async_Programming_HTTP_JSON_Model_Repository.html",
-      "slide_count": 31
+      "slide_count": 38,
+      "project": "Aplikasi Mobile Logbook Magang",
+      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer"
     },
     {
-      "id": "S05",
-      "code": "FLT-S05",
-      "date": "17 November 2026",
-      "title": "State Management, Loading, Error & Empty State",
-      "objective": "Membedakan ephemeral state dan app state.",
+      "id": "S31",
+      "date": "2026-11-17",
+      "day": "Selasa",
+      "topic": "State management, loading, error, dan empty state",
+      "objective": "Mengelola state aplikasi dan menyajikan loading, error, serta empty state.",
+      "activity": "Provider/ChangeNotifier terpandu; state model; retry; pull to refresh.",
       "output": "State lengkap untuk daftar dan detail.",
       "assessment": "State handling checklist.",
-      "evidence": [
-        "Video/screenshot state scenarios",
-        "State class",
-        "Retry demo",
-        "Checklist loading/error/empty"
-      ],
+      "evidence": "Video/screenshot state scenarios.",
       "file": "S05_State_Management_Loading_Error_Empty_State.html",
-      "slide_count": 31
+      "slide_count": 38,
+      "project": "Aplikasi Mobile Logbook Magang",
+      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer"
     },
     {
-      "id": "S06",
-      "code": "FLT-S06",
-      "date": "19 November 2026",
-      "title": "Local Persistence, Form Submission & Offline-Friendly Flow",
-      "objective": "Menyimpan draft lokal untuk mengurangi risiko kehilangan input.",
+      "id": "S32",
+      "date": "2026-11-19",
+      "day": "Kamis",
+      "topic": "Local persistence, form submission, dan offline-friendly flow",
+      "objective": "Menyimpan data lokal dan mengelola alur submit dengan kegagalan jaringan.",
+      "activity": "SharedPreferences/local storage sederhana; optimistic flow; retry queue konsep.",
       "output": "Draft lokal dan submit logbook.",
       "assessment": "Scenario-based test.",
-      "evidence": [
-        "Demo offline/online",
-        "Data sample lokal",
-        "Submit flow",
-        "Retry scenario"
-      ],
+      "evidence": "Demo offline/online + data sample.",
       "file": "S06_Local_Persistence_Form_Submission_Offline_Friendly_Flow.html",
-      "slide_count": 31
+      "slide_count": 38,
+      "project": "Aplikasi Mobile Logbook Magang",
+      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer"
     },
     {
-      "id": "S07",
-      "code": "FLT-S07",
-      "date": "24 November 2026",
-      "title": "Testing, Integration, Build & Release Readiness",
-      "objective": "Menulis widget test dan service test dasar.",
+      "id": "S33",
+      "date": "2026-11-24",
+      "day": "Selasa",
+      "topic": "Testing, integration, build, dan release readiness",
+      "objective": "Menulis test dasar, mengintegrasikan fitur, dan menyiapkan build demonstrasi.",
+      "activity": "Widget test; service test; integration checklist; app icon/config; build APK/debug.",
       "output": "Release candidate aplikasi.",
       "assessment": "Pre-final quality gate.",
-      "evidence": [
-        "Test report",
-        "Build file",
-        "Integration checklist",
-        "Release notes draft"
-      ],
+      "evidence": "Test report + build file.",
       "file": "S07_Testing_Integration_Build_Release_Readiness.html",
-      "slide_count": 31
+      "slide_count": 38,
+      "project": "Aplikasi Mobile Logbook Magang",
+      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer"
     },
     {
-      "id": "S08",
-      "code": "FLT-S08",
-      "date": "26 November 2026",
-      "title": "Final Capstone Demo, Asesmen Akhir & Retrospective",
-      "objective": "Mendemonstrasikan aplikasi end-to-end.",
+      "id": "S34",
+      "date": "2026-11-26",
+      "day": "Kamis",
+      "topic": "Final capstone demo, asesmen akhir, dan retrospective",
+      "objective": "Mendemonstrasikan aplikasi end-to-end, menjelaskan kode, dan menyusun rencana pengembangan lanjut.",
+      "activity": "Final demo; Q&A; code walkthrough; retrospective; portfolio packaging.",
       "output": "Aplikasi Mobile Logbook Magang dan portofolio program.",
       "assessment": "Asesmen proyek Flutter dan evaluasi akhir.",
-      "evidence": [
-        "Repository final",
-        "Build aplikasi",
-        "Demo video",
-        "Portfolio index",
-        "Retrospective notes"
-      ],
+      "evidence": "Repository, build, demo video, portfolio index.",
       "file": "S08_Final_Capstone_Demo_Asesmen_Akhir_Retrospective.html",
-      "slide_count": 31
+      "slide_count": 38,
+      "project": "Aplikasi Mobile Logbook Magang",
+      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer"
     }
   ]
 }

@@ -1,155 +1,155 @@
 {
-  "module": "Laravel",
-  "month": "September 2026",
+  "technology": "Laravel",
   "project": "Aplikasi Web Manajemen Tugas Magang",
-  "status": "HTML slide deck sesuai SAP",
-  "total_sessions": 9,
-  "total_slides": 243,
+  "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer",
+  "source_snapshot": "Portal_Program_Magang_Developer_Agu-Nov_2026.html",
+  "alignment_fields": [
+    "date",
+    "topic",
+    "objective",
+    "activity",
+    "output",
+    "assessment",
+    "evidence"
+  ],
+  "generated_at": "2026-08-03T10:35:24.938915+00:00",
+  "session_count": 9,
+  "total_slides": 306,
   "sessions": [
     {
-      "id": "S01",
-      "code": "LAR-S01",
-      "date": "1 September 2026",
-      "title": "Setup, PHP Refresher, MVC & Git Workflow",
-      "objective": "Menyiapkan environment Laravel dengan Composer, PHP, Git, dan database.",
-      "output": "Repository Laravel awal berjalan lokal, halaman welcome tampil, dan commit awal terdokumentasi.",
-      "evidence": [
-        "Screenshot aplikasi lokal",
-        "Link repository",
-        "README awal",
-        "Logbook setup & kendala"
-      ],
-      "file": "S01_Setup_PHP_Refresher_MVC_Git_Workflow.html",
-      "slide_count": 27
-    },
-    {
-      "id": "S02",
-      "code": "LAR-S02",
-      "date": "3 September 2026",
-      "title": "Routing, Controller, Blade & Layout",
-      "objective": "Memahami routing web Laravel dan route name.",
-      "output": "Aplikasi memiliki halaman Dashboard, Daftar Tugas, Logbook, dan Bukti dengan layout Blade konsisten.",
-      "evidence": [
-        "Screenshot 4 halaman",
-        "Daftar route:list",
-        "Commit fitur layout",
-        "Catatan struktur view"
-      ],
-      "file": "S02_Routing_Controller_Blade_Layout.html",
-      "slide_count": 27
-    },
-    {
-      "id": "S03",
-      "code": "LAR-S03",
-      "date": "8 September 2026",
-      "title": "ERD, Migration, Seeder & Eloquent",
-      "objective": "Mendesain ERD sederhana untuk aplikasi tugas magang.",
-      "output": "Database memiliki tabel categories, tasks, logbooks, evidence_files, dan data dummy untuk latihan.",
-      "evidence": [
-        "ERD final",
-        "File migration",
-        "Seeder berjalan",
-        "Screenshot data tampil"
-      ],
-      "file": "S03_ERD_Migration_Seeder_Eloquent.html",
-      "slide_count": 27
-    },
-    {
-      "id": "S04",
-      "code": "LAR-S04",
-      "date": "10 September 2026",
-      "title": "CRUD Tahap 1: Form, Validation, Create & Update",
-      "objective": "Membuat form input tugas.",
-      "output": "Peserta dapat membuat dan mengubah data tugas magang melalui form Laravel.",
-      "evidence": [
-        "Form create/edit",
-        "Screenshot validation error",
-        "Data tersimpan",
-        "Commit CRUD tahap 1"
-      ],
-      "file": "S04_CRUD_Tahap_1_Form_Validation_Create_Update.html",
-      "slide_count": 27
-    },
-    {
-      "id": "S05",
-      "code": "LAR-S05",
-      "date": "15 September 2026",
-      "title": "CRUD Tahap 2: Relationship, Delete, Search & Pagination",
-      "objective": "Menerapkan relationship antara User, Category, Task, dan Logbook.",
-      "output": "Daftar tugas dapat dicari, difilter, dipaginasi, dan dihubungkan dengan kategori/logbook.",
-      "evidence": [
-        "Index tugas interaktif",
-        "Screenshot filter/search",
-        "Relasi model",
-        "Commit CRUD tahap 2"
-      ],
-      "file": "S05_CRUD_Tahap_2_Relationship_Delete_Search_Pagination.html",
-      "slide_count": 27
-    },
-    {
-      "id": "S06",
-      "code": "LAR-S06",
-      "date": "17 September 2026",
-      "title": "Authentication, Authorization & Role",
-      "objective": "Memahami authentication di Laravel.",
-      "output": "Aplikasi memiliki login, register/seed user, role peserta/mentor, dan akses halaman terlindungi.",
-      "evidence": [
-        "Login berjalan",
-        "Route terlindungi",
-        "Demo dua role",
-        "Catatan skenario akses"
-      ],
-      "file": "S06_Authentication_Authorization_Role.html",
-      "slide_count": 27
-    },
-    {
-      "id": "S07",
-      "code": "LAR-S07",
-      "date": "22 September 2026",
-      "title": "REST API, API Resource, Postman & Error Handling",
-      "objective": "Mengenal perbedaan web route dan API route.",
-      "output": "Aplikasi memiliki endpoint API task list/detail/create dan koleksi Postman dasar.",
-      "evidence": [
-        "Endpoint berjalan",
-        "Collection Postman",
-        "Screenshot response JSON",
-        "Dokumentasi API singkat"
-      ],
-      "file": "S07_REST_API_API_Resource_Postman_Error_Handling.html",
-      "slide_count": 27
-    },
-    {
-      "id": "S08",
-      "code": "LAR-S08",
-      "date": "24 September 2026",
-      "title": "Testing, Logging, Security & Quality Review",
-      "objective": "Membuat test dasar untuk fitur penting.",
-      "output": "Minimal 5 automated test berjalan, log error dipahami, dan checklist quality review terisi.",
-      "evidence": [
-        "Screenshot test passed",
-        "Daftar 5 test",
-        "Quality checklist",
-        "Catatan perbaikan kode"
-      ],
-      "file": "S08_Testing_Logging_Security_Quality_Review.html",
-      "slide_count": 27
-    },
-    {
       "id": "S09",
-      "code": "LAR-S09",
-      "date": "29 September 2026",
-      "title": "Finalisasi, Dokumentasi, Demo & Asesmen",
-      "objective": "Menyelesaikan fitur final aplikasi.",
-      "output": "Aplikasi Web Manajemen Tugas Magang siap didemokan, terdokumentasi, dan dinilai.",
-      "evidence": [
-        "Repository final",
-        "README final",
-        "Video/screenshot demo",
-        "Rubrik asesmen",
-        "Logbook refleksi"
-      ],
+      "date": "2026-09-01",
+      "day": "Selasa",
+      "topic": "Setup Laravel, PHP refresher, MVC, dan workflow Git",
+      "objective": "Menyiapkan lingkungan pengembangan dan memahami struktur Laravel serta pola MVC.",
+      "activity": "Instalasi/verifikasi; membuat project; struktur folder; Git branch; first route.",
+      "output": "Repository awal dan halaman health check.",
+      "assessment": "Checklist setup.",
+      "evidence": "Repository + screenshot aplikasi.",
+      "file": "S01_Setup_PHP_Refresher_MVC_Git_Workflow.html",
+      "slide_count": 34,
+      "project": "Aplikasi Web Manajemen Tugas Magang",
+      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer"
+    },
+    {
+      "id": "S10",
+      "date": "2026-09-03",
+      "day": "Kamis",
+      "topic": "Routing, controller, Blade, dan layout",
+      "objective": "Membuat alur request ke controller dan menampilkan data melalui Blade.",
+      "activity": "Route parameter; controller; Blade template; layout; partial; navigation.",
+      "output": "Halaman daftar dan detail statis.",
+      "assessment": "Latihan routing dan view.",
+      "evidence": "Commit fitur + screenshot.",
+      "file": "S02_Routing_Controller_Blade_Layout.html",
+      "slide_count": 34,
+      "project": "Aplikasi Web Manajemen Tugas Magang",
+      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer"
+    },
+    {
+      "id": "S11",
+      "date": "2026-09-08",
+      "day": "Selasa",
+      "topic": "Database design, migrations, seeders, dan Eloquent",
+      "objective": "Merancang skema data dan mengelolanya melalui migrations serta Eloquent.",
+      "activity": "ERD; migration; model; seeder/factory; query dasar Eloquent.",
+      "output": "ERD dan database terisi data contoh.",
+      "assessment": "Review skema dan query.",
+      "evidence": "ERD + migration + seed data.",
+      "file": "S03_ERD_Migration_Seeder_Eloquent.html",
+      "slide_count": 34,
+      "project": "Aplikasi Web Manajemen Tugas Magang",
+      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer"
+    },
+    {
+      "id": "S12",
+      "date": "2026-09-10",
+      "day": "Kamis",
+      "topic": "CRUD tahap 1: form, validation, create, dan update",
+      "objective": "Membangun form aman untuk membuat dan mengubah data.",
+      "activity": "Form request; server-side validation; create/update; flash message; error state.",
+      "output": "Fitur create dan update tugas.",
+      "assessment": "Code review terarah.",
+      "evidence": "Commit CRUD + bukti validasi.",
+      "file": "S04_CRUD_Tahap_1_Form_Validation_Create_Update.html",
+      "slide_count": 34,
+      "project": "Aplikasi Web Manajemen Tugas Magang",
+      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer"
+    },
+    {
+      "id": "S13",
+      "date": "2026-09-15",
+      "day": "Selasa",
+      "topic": "CRUD tahap 2: relationships, delete, search, dan pagination",
+      "objective": "Mengelola relasi data, pencarian, pagination, dan penghapusan terkontrol.",
+      "activity": "Eloquent relationship; eager loading; filter; pagination; soft delete opsional.",
+      "output": "Daftar tugas dengan relasi, pencarian, dan pagination.",
+      "assessment": "Functional checklist.",
+      "evidence": "Demo fitur + repository.",
+      "file": "S05_CRUD_Tahap_2_Relationship_Delete_Search_Pagination.html",
+      "slide_count": 34,
+      "project": "Aplikasi Web Manajemen Tugas Magang",
+      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer"
+    },
+    {
+      "id": "S14",
+      "date": "2026-09-17",
+      "day": "Kamis",
+      "topic": "Authentication, authorization, dan role sederhana",
+      "objective": "Menerapkan autentikasi dan pembatasan akses sesuai peran.",
+      "activity": "Auth scaffolding sesuai stack; middleware; policy/gate; ownership rule.",
+      "output": "Login dan pembatasan fitur mentor/peserta.",
+      "assessment": "Security walkthrough.",
+      "evidence": "Skenario akses + screenshot.",
+      "file": "S06_Authentication_Authorization_Role.html",
+      "slide_count": 34,
+      "project": "Aplikasi Web Manajemen Tugas Magang",
+      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer"
+    },
+    {
+      "id": "S15",
+      "date": "2026-09-22",
+      "day": "Selasa",
+      "topic": "REST API, API Resource, Postman, dan error handling",
+      "objective": "Menyediakan endpoint API konsisten dan mengujinya menggunakan Postman.",
+      "activity": "API route; controller; Resource; response code; pagination; error response.",
+      "output": "Endpoint tugas dan logbook.",
+      "assessment": "API checklist.",
+      "evidence": "Postman collection + response sample.",
+      "file": "S07_REST_API_API_Resource_Postman_Error_Handling.html",
+      "slide_count": 34,
+      "project": "Aplikasi Web Manajemen Tugas Magang",
+      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer"
+    },
+    {
+      "id": "S16",
+      "date": "2026-09-24",
+      "day": "Kamis",
+      "topic": "Testing dasar, logging, keamanan, dan quality review",
+      "objective": "Menulis pengujian dasar dan memperbaiki kualitas serta keamanan aplikasi.",
+      "activity": "Feature test; validation test; log; env; mass assignment; N+1 review.",
+      "output": "Minimal 5 test dan daftar perbaikan kualitas.",
+      "assessment": "Test review.",
+      "evidence": "Test report + quality checklist.",
+      "file": "S08_Testing_Logging_Security_Quality_Review.html",
+      "slide_count": 34,
+      "project": "Aplikasi Web Manajemen Tugas Magang",
+      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer"
+    },
+    {
+      "id": "S17",
+      "date": "2026-09-29",
+      "day": "Selasa",
+      "topic": "Finalisasi, dokumentasi, demo, dan asesmen proyek Laravel",
+      "objective": "Menyelesaikan aplikasi, menyusun dokumentasi, dan mempresentasikan alur utama.",
+      "activity": "Bug fixing; README; setup steps; seed; demo scenario; retrospective.",
+      "output": "Aplikasi Web Manajemen Tugas Magang.",
+      "assessment": "Asesmen proyek Laravel.",
+      "evidence": "Repository, README, demo, ERD, Postman.",
       "file": "S09_Finalisasi_Dokumentasi_Demo_Asesmen.html",
-      "slide_count": 27
+      "slide_count": 34,
+      "project": "Aplikasi Web Manajemen Tugas Magang",
+      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer"
     }
   ]
 }

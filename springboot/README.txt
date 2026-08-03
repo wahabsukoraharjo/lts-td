@@ -1,17 +1,23 @@
-MATERI JAVA SPRING BOOT — HTML SLIDE DECK
+MATERI JAVA SPRING BOOT — EXPANDED INLINE PORTAL
 
-Buka index.html untuk memilih sesi.
-Setiap sesi memiliki 31 slide dan berjalan sebagai file statis. Google Fonts bersifat opsional; tanpa internet browser menggunakan font sistem.
+Sumber utama:
+https://wahabsukoraharjo.github.io/lts-td/program_magang_developer
 
-Kontrol:
-- Arrow Right / Space / PageDown: slide berikutnya
-- Arrow Left / PageUp: slide sebelumnya
-- Home / End: slide pertama / terakhir
-- M: daftar isi
-- F: fullscreen
-- Swipe kiri/kanan pada perangkat sentuh
+Project: Learning Log REST API
+Sesi: 9
+Total slide: 342
 
-File spring_boot_html_manifest.json tersedia untuk integrasi training portal.
-Studi kasus: Learning Log REST API.
+Pengembangan tambahan per sesi:
+1. Definisi konsep utama I
+2. Definisi konsep utama II
+3. Mengapa konsep digunakan
+4. Hubungan antar-komponen
+5. Definisi dan tujuan project
+6. Kontribusi sesi terhadap project
+7. Alignment objective, activity, output, assessment, dan evidence portal
 
-Catatan: contoh kode perlu disesuaikan dengan versi Spring Boot/Spring Framework dan dependency yang dipilih pada repository peserta.
+Cara menggunakan:
+- Ekstrak seluruh folder.
+- Buka index.html.
+- Gunakan Prev/Next, keyboard, menu daftar isi, fullscreen, atau swipe.
+- Jangan memindahkan file sesi keluar folder jika ingin link index tetap aktif.

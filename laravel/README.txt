@@ -1,15 +1,23 @@
-MATERI LARAVEL — HTML SLIDE DECK
+MATERI LARAVEL — EXPANDED INLINE PORTAL
 
-Buka index.html untuk memilih sesi.
-Setiap sesi memiliki 27 slide dan dapat berjalan sebagai file statis. Google Fonts opsional; tanpa internet font sistem akan digunakan.
+Sumber utama:
+https://wahabsukoraharjo.github.io/lts-td/program_magang_developer
 
-Kontrol:
-- Arrow Right / Space / PageDown: slide berikutnya
-- Arrow Left / PageUp: slide sebelumnya
-- Home / End: slide pertama / terakhir
-- M: daftar isi
-- F: fullscreen
-- Swipe kiri/kanan pada perangkat sentuh
+Project: Aplikasi Web Manajemen Tugas Magang
+Sesi: 9
+Total slide: 306
 
-File laravel_html_manifest.json disediakan untuk integrasi training portal.
-Studi kasus: Aplikasi Web Manajemen Tugas Magang.
+Pengembangan tambahan per sesi:
+1. Definisi konsep utama I
+2. Definisi konsep utama II
+3. Mengapa konsep digunakan
+4. Hubungan antar-komponen
+5. Definisi dan tujuan project
+6. Kontribusi sesi terhadap project
+7. Alignment objective, activity, output, assessment, dan evidence portal
+
+Cara menggunakan:
+- Ekstrak seluruh folder.
+- Buka index.html.
+- Gunakan Prev/Next, keyboard, menu daftar isi, fullscreen, atau swipe.
+- Jangan memindahkan file sesi keluar folder jika ingin link index tetap aktif.
