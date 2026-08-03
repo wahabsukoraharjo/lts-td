@@ -1,0 +1,165 @@
+{
+  "module": "Java Spring Boot",
+  "month": "Oktober 2026",
+  "project": "Learning Log REST API",
+  "status": "HTML slide deck sesuai SAP",
+  "visual_theme": "Spring Boot Paper Craft Architecture",
+  "total_sessions": 9,
+  "total_slides": 279,
+  "sessions": [
+    {
+      "id": "S01",
+      "code": "SPR-S01",
+      "date": "1 Oktober 2026",
+      "title": "Setup Project, Arsitektur Spring Boot & Dependency Injection",
+      "objective": "Menyiapkan project menggunakan Spring Initializr.",
+      "output": "Project berjalan lokal dan endpoint health tersedia.",
+      "assessment": "Checklist setup dan konsep.",
+      "evidence": [
+        "Repository project awal",
+        "Endpoint /api/health berjalan",
+        "Screenshot response health",
+        "Catatan dependency dan profile dev"
+      ],
+      "file": "S01_Setup_Project_Arsitektur_Spring_Boot_Dependency_Injection.html",
+      "slide_count": 31
+    },
+    {
+      "id": "S02",
+      "code": "SPR-S02",
+      "date": "6 Oktober 2026",
+      "title": "REST Controller, DTO, Mapping & Validation",
+      "objective": "Membuat REST controller dengan endpoint create/read.",
+      "output": "Endpoint create dengan validation dan response DTO berjalan.",
+      "assessment": "Latihan endpoint.",
+      "evidence": [
+        "Request/response sample",
+        "Kode DTO dan controller",
+        "Screenshot validation error",
+        "Commit endpoint create"
+      ],
+      "file": "S02_REST_Controller_DTO_Mapping_Validation.html",
+      "slide_count": 31
+    },
+    {
+      "id": "S03",
+      "code": "SPR-S03",
+      "date": "8 Oktober 2026",
+      "title": "Spring Data JPA, Entity, Repository & Database",
+      "objective": "Membuat entity JPA untuk Learning Log.",
+      "output": "Entity dan repository untuk learning log tersedia.",
+      "assessment": "Review mapping.",
+      "evidence": [
+        "Schema database",
+        "Kode entity dan repository",
+        "Data initializer",
+        "Screenshot query/data"
+      ],
+      "file": "S03_Spring_Data_JPA_Entity_Repository_Database.html",
+      "slide_count": 31
+    },
+    {
+      "id": "S04",
+      "code": "SPR-S04",
+      "date": "13 Oktober 2026",
+      "title": "Service Layer, Transaction & Exception Handling",
+      "objective": "Memindahkan business logic ke service layer.",
+      "output": "Alur create/read/update memiliki error response konsisten.",
+      "assessment": "Code review layer.",
+      "evidence": [
+        "Commit service layer",
+        "Contoh error 404/400",
+        "Global error handler",
+        "Catatan desain layer"
+      ],
+      "file": "S04_Service_Layer_Transaction_Exception_Handling.html",
+      "slide_count": 31
+    },
+    {
+      "id": "S05",
+      "code": "SPR-S05",
+      "date": "15 Oktober 2026",
+      "title": "CRUD API, Pagination, Sorting & Filtering",
+      "objective": "Menyelesaikan endpoint CRUD.",
+      "output": "CRUD API lengkap dengan pagination, sorting, dan filter.",
+      "assessment": "Functional API checklist.",
+      "evidence": [
+        "OpenAPI draft",
+        "API demo CRUD",
+        "Contoh request filter",
+        "Checklist fungsi"
+      ],
+      "file": "S05_CRUD_API_Pagination_Sorting_Filtering.html",
+      "slide_count": 31
+    },
+    {
+      "id": "S06",
+      "code": "SPR-S06",
+      "date": "20 Oktober 2026",
+      "title": "Spring Security Dasar & JWT",
+      "objective": "Memahami authentication dan authorization di API.",
+      "output": "Endpoint publik dan terlindungi tersedia.",
+      "assessment": "Security scenario test.",
+      "evidence": [
+        "Auth flow diagram",
+        "Test evidence endpoint publik/privat",
+        "Security config",
+        "Skenario akses role"
+      ],
+      "file": "S06_Spring_Security_Dasar_JWT.html",
+      "slide_count": 31
+    },
+    {
+      "id": "S07",
+      "code": "SPR-S07",
+      "date": "22 Oktober 2026",
+      "title": "JUnit, Mockito, Integration Test & OpenAPI",
+      "objective": "Menulis unit test untuk service.",
+      "output": "Minimal 6 test dan dokumentasi API tersedia.",
+      "assessment": "Test and docs review.",
+      "evidence": [
+        "Test report",
+        "OpenAPI UI screenshot",
+        "Kode unit/integration test",
+        "Coverage review singkat"
+      ],
+      "file": "S07_JUnit_Mockito_Integration_Test_OpenAPI.html",
+      "slide_count": 31
+    },
+    {
+      "id": "S08",
+      "code": "SPR-S08",
+      "date": "27 Oktober 2026",
+      "title": "Configuration Profiles, Logging, Observability & Quality Gate",
+      "objective": "Mengelola konfigurasi berdasarkan environment.",
+      "output": "Configuration guide dan quality gate checklist tersedia.",
+      "assessment": "Quality review.",
+      "evidence": [
+        "Config sample",
+        "Log evidence",
+        "Actuator endpoint screenshot",
+        "Quality gate checklist"
+      ],
+      "file": "S08_Configuration_Profiles_Logging_Observability_Quality_Gate.html",
+      "slide_count": 31
+    },
+    {
+      "id": "S09",
+      "code": "SPR-S09",
+      "date": "29 Oktober 2026",
+      "title": "Finalisasi, Demo & Asesmen Proyek Java Spring Boot",
+      "objective": "Menyelesaikan REST API Learning Log.",
+      "output": "Learning Log REST API final.",
+      "assessment": "Asesmen proyek Java Spring Boot.",
+      "evidence": [
+        "Repository final",
+        "README",
+        "OpenAPI",
+        "Test report",
+        "Demo API"
+      ],
+      "file": "S09_Finalisasi_Demo_Asesmen_Proyek_Java_Spring_Boot.html",
+      "slide_count": 31
+    }
+  ]
+}

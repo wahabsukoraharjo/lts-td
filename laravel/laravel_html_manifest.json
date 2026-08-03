@@ -1,0 +1,155 @@
+{
+  "module": "Laravel",
+  "month": "September 2026",
+  "project": "Aplikasi Web Manajemen Tugas Magang",
+  "status": "HTML slide deck sesuai SAP",
+  "total_sessions": 9,
+  "total_slides": 243,
+  "sessions": [
+    {
+      "id": "S01",
+      "code": "LAR-S01",
+      "date": "1 September 2026",
+      "title": "Setup, PHP Refresher, MVC & Git Workflow",
+      "objective": "Menyiapkan environment Laravel dengan Composer, PHP, Git, dan database.",
+      "output": "Repository Laravel awal berjalan lokal, halaman welcome tampil, dan commit awal terdokumentasi.",
+      "evidence": [
+        "Screenshot aplikasi lokal",
+        "Link repository",
+        "README awal",
+        "Logbook setup & kendala"
+      ],
+      "file": "S01_Setup_PHP_Refresher_MVC_Git_Workflow.html",
+      "slide_count": 27
+    },
+    {
+      "id": "S02",
+      "code": "LAR-S02",
+      "date": "3 September 2026",
+      "title": "Routing, Controller, Blade & Layout",
+      "objective": "Memahami routing web Laravel dan route name.",
+      "output": "Aplikasi memiliki halaman Dashboard, Daftar Tugas, Logbook, dan Bukti dengan layout Blade konsisten.",
+      "evidence": [
+        "Screenshot 4 halaman",
+        "Daftar route:list",
+        "Commit fitur layout",
+        "Catatan struktur view"
+      ],
+      "file": "S02_Routing_Controller_Blade_Layout.html",
+      "slide_count": 27
+    },
+    {
+      "id": "S03",
+      "code": "LAR-S03",
+      "date": "8 September 2026",
+      "title": "ERD, Migration, Seeder & Eloquent",
+      "objective": "Mendesain ERD sederhana untuk aplikasi tugas magang.",
+      "output": "Database memiliki tabel categories, tasks, logbooks, evidence_files, dan data dummy untuk latihan.",
+      "evidence": [
+        "ERD final",
+        "File migration",
+        "Seeder berjalan",
+        "Screenshot data tampil"
+      ],
+      "file": "S03_ERD_Migration_Seeder_Eloquent.html",
+      "slide_count": 27
+    },
+    {
+      "id": "S04",
+      "code": "LAR-S04",
+      "date": "10 September 2026",
+      "title": "CRUD Tahap 1: Form, Validation, Create & Update",
+      "objective": "Membuat form input tugas.",
+      "output": "Peserta dapat membuat dan mengubah data tugas magang melalui form Laravel.",
+      "evidence": [
+        "Form create/edit",
+        "Screenshot validation error",
+        "Data tersimpan",
+        "Commit CRUD tahap 1"
+      ],
+      "file": "S04_CRUD_Tahap_1_Form_Validation_Create_Update.html",
+      "slide_count": 27
+    },
+    {
+      "id": "S05",
+      "code": "LAR-S05",
+      "date": "15 September 2026",
+      "title": "CRUD Tahap 2: Relationship, Delete, Search & Pagination",
+      "objective": "Menerapkan relationship antara User, Category, Task, dan Logbook.",
+      "output": "Daftar tugas dapat dicari, difilter, dipaginasi, dan dihubungkan dengan kategori/logbook.",
+      "evidence": [
+        "Index tugas interaktif",
+        "Screenshot filter/search",
+        "Relasi model",
+        "Commit CRUD tahap 2"
+      ],
+      "file": "S05_CRUD_Tahap_2_Relationship_Delete_Search_Pagination.html",
+      "slide_count": 27
+    },
+    {
+      "id": "S06",
+      "code": "LAR-S06",
+      "date": "17 September 2026",
+      "title": "Authentication, Authorization & Role",
+      "objective": "Memahami authentication di Laravel.",
+      "output": "Aplikasi memiliki login, register/seed user, role peserta/mentor, dan akses halaman terlindungi.",
+      "evidence": [
+        "Login berjalan",
+        "Route terlindungi",
+        "Demo dua role",
+        "Catatan skenario akses"
+      ],
+      "file": "S06_Authentication_Authorization_Role.html",
+      "slide_count": 27
+    },
+    {
+      "id": "S07",
+      "code": "LAR-S07",
+      "date": "22 September 2026",
+      "title": "REST API, API Resource, Postman & Error Handling",
+      "objective": "Mengenal perbedaan web route dan API route.",
+      "output": "Aplikasi memiliki endpoint API task list/detail/create dan koleksi Postman dasar.",
+      "evidence": [
+        "Endpoint berjalan",
+        "Collection Postman",
+        "Screenshot response JSON",
+        "Dokumentasi API singkat"
+      ],
+      "file": "S07_REST_API_API_Resource_Postman_Error_Handling.html",
+      "slide_count": 27
+    },
+    {
+      "id": "S08",
+      "code": "LAR-S08",
+      "date": "24 September 2026",
+      "title": "Testing, Logging, Security & Quality Review",
+      "objective": "Membuat test dasar untuk fitur penting.",
+      "output": "Minimal 5 automated test berjalan, log error dipahami, dan checklist quality review terisi.",
+      "evidence": [
+        "Screenshot test passed",
+        "Daftar 5 test",
+        "Quality checklist",
+        "Catatan perbaikan kode"
+      ],
+      "file": "S08_Testing_Logging_Security_Quality_Review.html",
+      "slide_count": 27
+    },
+    {
+      "id": "S09",
+      "code": "LAR-S09",
+      "date": "29 September 2026",
+      "title": "Finalisasi, Dokumentasi, Demo & Asesmen",
+      "objective": "Menyelesaikan fitur final aplikasi.",
+      "output": "Aplikasi Web Manajemen Tugas Magang siap didemokan, terdokumentasi, dan dinilai.",
+      "evidence": [
+        "Repository final",
+        "README final",
+        "Video/screenshot demo",
+        "Rubrik asesmen",
+        "Logbook refleksi"
+      ],
+      "file": "S09_Finalisasi_Dokumentasi_Demo_Asesmen.html",
+      "slide_count": 27
+    }
+  ]
+}

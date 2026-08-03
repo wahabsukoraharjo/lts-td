@@ -1,0 +1,148 @@
+{
+  "module": "Flutter",
+  "month": "November 2026",
+  "project": "Aplikasi Mobile Logbook Magang",
+  "status": "HTML slide deck sesuai SAP",
+  "visual_theme": "Flutter Mobile Paper Craft",
+  "total_sessions": 8,
+  "total_slides": 248,
+  "sessions": [
+    {
+      "id": "S01",
+      "code": "FLT-S01",
+      "date": "3 November 2026",
+      "title": "Setup Flutter, Dart Refresher, Widget Tree & Project Structure",
+      "objective": "Menyiapkan environment Flutter dan melakukan doctor check.",
+      "output": "Aplikasi awal dan halaman dashboard statis.",
+      "assessment": "Checklist setup.",
+      "evidence": [
+        "Repository awal",
+        "Screenshot emulator/device",
+        "Catatan flutter doctor",
+        "Commit dashboard statis"
+      ],
+      "file": "S01_Setup_Flutter_Dart_Refresher_Widget_Tree_Project_Structure.html",
+      "slide_count": 31
+    },
+    {
+      "id": "S02",
+      "code": "FLT-S02",
+      "date": "5 November 2026",
+      "title": "Layout, Theming, Responsive UI & Navigation",
+      "objective": "Menyusun layout responsif dengan Row, Column, Flex, dan constraints.",
+      "output": "Dashboard dan navigasi tiga layar.",
+      "assessment": "UI review.",
+      "evidence": [
+        "Screenshot multi-screen",
+        "Kode navigation",
+        "Theme configuration",
+        "Catatan responsive review"
+      ],
+      "file": "S02_Layout_Theming_Responsive_UI_Navigation.html",
+      "slide_count": 31
+    },
+    {
+      "id": "S03",
+      "code": "FLT-S03",
+      "date": "10 November 2026",
+      "title": "Form, Validation, User Input & Local State",
+      "objective": "Membangun form logbook dengan TextFormField.",
+      "output": "Form logbook dan daftar entri lokal.",
+      "assessment": "Practical review.",
+      "evidence": [
+        "Demo form",
+        "Validation evidence",
+        "Kode state lokal",
+        "Screenshot daftar entri"
+      ],
+      "file": "S03_Form_Validation_User_Input_Local_State.html",
+      "slide_count": 31
+    },
+    {
+      "id": "S04",
+      "code": "FLT-S04",
+      "date": "12 November 2026",
+      "title": "Async Programming, HTTP, JSON, Model & Repository",
+      "objective": "Memahami Future, async, dan await.",
+      "output": "Daftar data dari API.",
+      "assessment": "Integration checkpoint.",
+      "evidence": [
+        "API response sample",
+        "App screenshot",
+        "Repository class",
+        "Error handling sample"
+      ],
+      "file": "S04_Async_Programming_HTTP_JSON_Model_Repository.html",
+      "slide_count": 31
+    },
+    {
+      "id": "S05",
+      "code": "FLT-S05",
+      "date": "17 November 2026",
+      "title": "State Management, Loading, Error & Empty State",
+      "objective": "Membedakan ephemeral state dan app state.",
+      "output": "State lengkap untuk daftar dan detail.",
+      "assessment": "State handling checklist.",
+      "evidence": [
+        "Video/screenshot state scenarios",
+        "State class",
+        "Retry demo",
+        "Checklist loading/error/empty"
+      ],
+      "file": "S05_State_Management_Loading_Error_Empty_State.html",
+      "slide_count": 31
+    },
+    {
+      "id": "S06",
+      "code": "FLT-S06",
+      "date": "19 November 2026",
+      "title": "Local Persistence, Form Submission & Offline-Friendly Flow",
+      "objective": "Menyimpan draft lokal untuk mengurangi risiko kehilangan input.",
+      "output": "Draft lokal dan submit logbook.",
+      "assessment": "Scenario-based test.",
+      "evidence": [
+        "Demo offline/online",
+        "Data sample lokal",
+        "Submit flow",
+        "Retry scenario"
+      ],
+      "file": "S06_Local_Persistence_Form_Submission_Offline_Friendly_Flow.html",
+      "slide_count": 31
+    },
+    {
+      "id": "S07",
+      "code": "FLT-S07",
+      "date": "24 November 2026",
+      "title": "Testing, Integration, Build & Release Readiness",
+      "objective": "Menulis widget test dan service test dasar.",
+      "output": "Release candidate aplikasi.",
+      "assessment": "Pre-final quality gate.",
+      "evidence": [
+        "Test report",
+        "Build file",
+        "Integration checklist",
+        "Release notes draft"
+      ],
+      "file": "S07_Testing_Integration_Build_Release_Readiness.html",
+      "slide_count": 31
+    },
+    {
+      "id": "S08",
+      "code": "FLT-S08",
+      "date": "26 November 2026",
+      "title": "Final Capstone Demo, Asesmen Akhir & Retrospective",
+      "objective": "Mendemonstrasikan aplikasi end-to-end.",
+      "output": "Aplikasi Mobile Logbook Magang dan portofolio program.",
+      "assessment": "Asesmen proyek Flutter dan evaluasi akhir.",
+      "evidence": [
+        "Repository final",
+        "Build aplikasi",
+        "Demo video",
+        "Portfolio index",
+        "Retrospective notes"
+      ],
+      "file": "S08_Final_Capstone_Demo_Asesmen_Akhir_Retrospective.html",
+      "slide_count": 31
+    }
+  ]
+}
