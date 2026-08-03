@@ -1,0 +1,103 @@
+{
+  "module": "Figma",
+  "month": "Agustus 2026",
+  "project": "Prototype Portal Logbook Magang Developer",
+  "sessions": [
+    {
+      "id": "S01",
+      "code": "FIG-S01",
+      "title": "Orientasi Program, Baseline, dan Workspace Figma",
+      "date": "Selasa, 4 Agustus 2026",
+      "mode": "Live",
+      "hours": "1,5 jam live • 0,5 jam mandiri",
+      "objective": "Memahami target program, alur kerja desain, struktur file, dan kemampuan awal peserta.",
+      "evidence": "Tautan file Figma, screenshot frame desktop/mobile, hasil export, dan catatan baseline.",
+      "file": "S01_Orientasi_Program_Baseline_dan_Workspace_Figma.html",
+      "slide_count": 18
+    },
+    {
+      "id": "S02",
+      "code": "FIG-S02",
+      "title": "Frame, Grid, Typography, Color, dan Aksesibilitas Dasar",
+      "date": "Kamis, 6 Agustus 2026",
+      "mode": "Live",
+      "hours": "1,5 jam live • 1 jam mandiri",
+      "objective": "Menyusun layar dengan hierarki visual, grid, typography, dan kontras yang memadai.",
+      "evidence": "Style tile, satu layar landing/dashboard, screenshot, dan catatan review mentor.",
+      "file": "S02_Frame_Grid_Typography_Color_dan_Aksesibilitas_Dasar.html",
+      "slide_count": 18
+    },
+    {
+      "id": "S03",
+      "code": "FIG-S03",
+      "title": "Auto Layout dan Desain Responsif",
+      "date": "Selasa, 11 Agustus 2026",
+      "mode": "Live",
+      "hours": "1,5 jam live • 1 jam mandiri",
+      "objective": "Menggunakan Auto Layout untuk komponen dan layout yang adaptif.",
+      "evidence": "Komponen card, list item, dan header responsif di dalam file Figma.",
+      "file": "S03_Auto_Layout_dan_Desain_Responsif.html",
+      "slide_count": 18
+    },
+    {
+      "id": "S04",
+      "code": "FIG-S04",
+      "title": "Components, Variants, Styles, dan Mini Design System",
+      "date": "Kamis, 13 Agustus 2026",
+      "mode": "Live",
+      "hours": "1,5 jam live • 1 jam mandiri",
+      "objective": "Membangun komponen reusable, variants, dan style tokens secara konsisten.",
+      "evidence": "Library komponen, variants, styles, dan dokumentasi penggunaan.",
+      "file": "S04_Components_Variants_Styles_dan_Mini_Design_System.html",
+      "slide_count": 18
+    },
+    {
+      "id": "S05",
+      "code": "FIG-S05",
+      "title": "User Flow, Information Architecture, dan Wireframe",
+      "date": "Selasa, 18 Agustus 2026",
+      "mode": "Live",
+      "hours": "1,5 jam live • 1 jam mandiri",
+      "objective": "Menyusun alur pengguna dan wireframe berdasarkan kebutuhan pengguna.",
+      "evidence": "User flow, sitemap/IA, dan wireframe minimal lima layar.",
+      "file": "S05_User_Flow_Information_Architecture_dan_Wireframe.html",
+      "slide_count": 18
+    },
+    {
+      "id": "S06",
+      "code": "FIG-S06",
+      "title": "High-Fidelity UI dan Design Critique",
+      "date": "Kamis, 20 Agustus 2026",
+      "mode": "Live",
+      "hours": "2 jam live • 1 jam mandiri",
+      "objective": "Mengubah wireframe menjadi UI high-fidelity dan memperbaikinya melalui critique.",
+      "evidence": "Prototype draft high-fidelity minimal lima layar dan daftar revisi.",
+      "file": "S06_High-Fidelity_UI_dan_Design_Critique.html",
+      "slide_count": 18
+    },
+    {
+      "id": "S07",
+      "code": "FIG-S07",
+      "title": "Heuristic Review dan Penyempurnaan Desain",
+      "date": "Selasa, 25 Agustus 2026",
+      "mode": "Mandiri • Libur Nasional",
+      "hours": "2 jam mandiri",
+      "objective": "Melakukan evaluasi mandiri dan menyempurnakan prototype berdasarkan checklist.",
+      "evidence": "Checklist heuristic, changelog desain, dan versi Figma yang telah direvisi.",
+      "file": "S07_Heuristic_Review_dan_Penyempurnaan_Desain.html",
+      "slide_count": 18
+    },
+    {
+      "id": "S08",
+      "code": "FIG-S08",
+      "title": "Interactive Prototype, Usability Test, dan Demo Bulanan",
+      "date": "Kamis, 27 Agustus 2026",
+      "mode": "Live",
+      "hours": "2 jam live • 1 jam mandiri",
+      "objective": "Membuat prototype interaktif, menjalankan uji kegunaan sederhana, dan mempresentasikan hasil.",
+      "evidence": "Tautan prototype final, test notes, changelog, PDF/screenshot export, dan demo.",
+      "file": "S08_Interactive_Prototype_Usability_Test_dan_Demo_Bulanan.html",
+      "slide_count": 18
+    }
+  ]
+}
