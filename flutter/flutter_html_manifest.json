@@ -28,8 +28,14 @@
       "evidence": "Repository + screenshot emulator/device.",
       "file": "S01_Setup_Flutter_Dart_Refresher_Widget_Tree_Project_Structure.html",
       "slide_count": 38,
-      "project": "Aplikasi Mobile Logbook Magang",
-      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer"
+      "project": "Aplikasi Mobile Digital Tele-interview",
+      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer",
+      "case_study": "Digital Tele-interview System",
+      "actors": [
+        "Administrator/Recruiter",
+        "Interviewer",
+        "Candidate"
+      ]
     },
     {
       "id": "S28",
@@ -43,8 +49,14 @@
       "evidence": "Screenshot multi-screen + code.",
       "file": "S02_Layout_Theming_Responsive_UI_Navigation.html",
       "slide_count": 38,
-      "project": "Aplikasi Mobile Logbook Magang",
-      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer"
+      "project": "Aplikasi Mobile Digital Tele-interview",
+      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer",
+      "case_study": "Digital Tele-interview System",
+      "actors": [
+        "Administrator/Recruiter",
+        "Interviewer",
+        "Candidate"
+      ]
     },
     {
       "id": "S29",
@@ -58,8 +70,14 @@
       "evidence": "Demo form + validation evidence.",
       "file": "S03_Form_Validation_User_Input_Local_State.html",
       "slide_count": 38,
-      "project": "Aplikasi Mobile Logbook Magang",
-      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer"
+      "project": "Aplikasi Mobile Digital Tele-interview",
+      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer",
+      "case_study": "Digital Tele-interview System",
+      "actors": [
+        "Administrator/Recruiter",
+        "Interviewer",
+        "Candidate"
+      ]
     },
     {
       "id": "S30",
@@ -73,8 +91,14 @@
       "evidence": "API response + app screenshot.",
       "file": "S04_Async_Programming_HTTP_JSON_Model_Repository.html",
       "slide_count": 38,
-      "project": "Aplikasi Mobile Logbook Magang",
-      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer"
+      "project": "Aplikasi Mobile Digital Tele-interview",
+      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer",
+      "case_study": "Digital Tele-interview System",
+      "actors": [
+        "Administrator/Recruiter",
+        "Interviewer",
+        "Candidate"
+      ]
     },
     {
       "id": "S31",
@@ -88,8 +112,14 @@
       "evidence": "Video/screenshot state scenarios.",
       "file": "S05_State_Management_Loading_Error_Empty_State.html",
       "slide_count": 38,
-      "project": "Aplikasi Mobile Logbook Magang",
-      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer"
+      "project": "Aplikasi Mobile Digital Tele-interview",
+      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer",
+      "case_study": "Digital Tele-interview System",
+      "actors": [
+        "Administrator/Recruiter",
+        "Interviewer",
+        "Candidate"
+      ]
     },
     {
       "id": "S32",
@@ -103,8 +133,14 @@
       "evidence": "Demo offline/online + data sample.",
       "file": "S06_Local_Persistence_Form_Submission_Offline_Friendly_Flow.html",
       "slide_count": 38,
-      "project": "Aplikasi Mobile Logbook Magang",
-      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer"
+      "project": "Aplikasi Mobile Digital Tele-interview",
+      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer",
+      "case_study": "Digital Tele-interview System",
+      "actors": [
+        "Administrator/Recruiter",
+        "Interviewer",
+        "Candidate"
+      ]
     },
     {
       "id": "S33",
@@ -118,8 +154,14 @@
       "evidence": "Test report + build file.",
       "file": "S07_Testing_Integration_Build_Release_Readiness.html",
       "slide_count": 38,
-      "project": "Aplikasi Mobile Logbook Magang",
-      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer"
+      "project": "Aplikasi Mobile Digital Tele-interview",
+      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer",
+      "case_study": "Digital Tele-interview System",
+      "actors": [
+        "Administrator/Recruiter",
+        "Interviewer",
+        "Candidate"
+      ]
     },
     {
       "id": "S34",
@@ -133,8 +175,14 @@
       "evidence": "Repository, build, demo video, portfolio index.",
       "file": "S08_Final_Capstone_Demo_Asesmen_Akhir_Retrospective.html",
       "slide_count": 38,
-      "project": "Aplikasi Mobile Logbook Magang",
-      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer"
+      "project": "Aplikasi Mobile Digital Tele-interview",
+      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer",
+      "case_study": "Digital Tele-interview System",
+      "actors": [
+        "Administrator/Recruiter",
+        "Interviewer",
+        "Candidate"
+      ]
     }
   ]
 }

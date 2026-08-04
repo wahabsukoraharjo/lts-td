@@ -28,8 +28,14 @@
       "evidence": "Repository + screenshot aplikasi.",
       "file": "S01_Setup_PHP_Refresher_MVC_Git_Workflow.html",
       "slide_count": 34,
-      "project": "Aplikasi Web Manajemen Tugas Magang",
-      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer"
+      "project": "Dashboard Web Admin/Recruiter Digital Tele-interview",
+      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer",
+      "case_study": "Digital Tele-interview System",
+      "actors": [
+        "Administrator/Recruiter",
+        "Interviewer",
+        "Candidate"
+      ]
     },
     {
       "id": "S10",
@@ -43,8 +49,14 @@
       "evidence": "Commit fitur + screenshot.",
       "file": "S02_Routing_Controller_Blade_Layout.html",
       "slide_count": 34,
-      "project": "Aplikasi Web Manajemen Tugas Magang",
-      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer"
+      "project": "Dashboard Web Admin/Recruiter Digital Tele-interview",
+      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer",
+      "case_study": "Digital Tele-interview System",
+      "actors": [
+        "Administrator/Recruiter",
+        "Interviewer",
+        "Candidate"
+      ]
     },
     {
       "id": "S11",
@@ -58,8 +70,14 @@
       "evidence": "ERD + migration + seed data.",
       "file": "S03_ERD_Migration_Seeder_Eloquent.html",
       "slide_count": 34,
-      "project": "Aplikasi Web Manajemen Tugas Magang",
-      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer"
+      "project": "Dashboard Web Admin/Recruiter Digital Tele-interview",
+      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer",
+      "case_study": "Digital Tele-interview System",
+      "actors": [
+        "Administrator/Recruiter",
+        "Interviewer",
+        "Candidate"
+      ]
     },
     {
       "id": "S12",
@@ -73,8 +91,14 @@
       "evidence": "Commit CRUD + bukti validasi.",
       "file": "S04_CRUD_Tahap_1_Form_Validation_Create_Update.html",
       "slide_count": 34,
-      "project": "Aplikasi Web Manajemen Tugas Magang",
-      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer"
+      "project": "Dashboard Web Admin/Recruiter Digital Tele-interview",
+      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer",
+      "case_study": "Digital Tele-interview System",
+      "actors": [
+        "Administrator/Recruiter",
+        "Interviewer",
+        "Candidate"
+      ]
     },
     {
       "id": "S13",
@@ -88,8 +112,14 @@
       "evidence": "Demo fitur + repository.",
       "file": "S05_CRUD_Tahap_2_Relationship_Delete_Search_Pagination.html",
       "slide_count": 34,
-      "project": "Aplikasi Web Manajemen Tugas Magang",
-      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer"
+      "project": "Dashboard Web Admin/Recruiter Digital Tele-interview",
+      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer",
+      "case_study": "Digital Tele-interview System",
+      "actors": [
+        "Administrator/Recruiter",
+        "Interviewer",
+        "Candidate"
+      ]
     },
     {
       "id": "S14",
@@ -103,8 +133,14 @@
       "evidence": "Skenario akses + screenshot.",
       "file": "S06_Authentication_Authorization_Role.html",
       "slide_count": 34,
-      "project": "Aplikasi Web Manajemen Tugas Magang",
-      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer"
+      "project": "Dashboard Web Admin/Recruiter Digital Tele-interview",
+      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer",
+      "case_study": "Digital Tele-interview System",
+      "actors": [
+        "Administrator/Recruiter",
+        "Interviewer",
+        "Candidate"
+      ]
     },
     {
       "id": "S15",
@@ -118,8 +154,14 @@
       "evidence": "Postman collection + response sample.",
       "file": "S07_REST_API_API_Resource_Postman_Error_Handling.html",
       "slide_count": 34,
-      "project": "Aplikasi Web Manajemen Tugas Magang",
-      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer"
+      "project": "Dashboard Web Admin/Recruiter Digital Tele-interview",
+      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer",
+      "case_study": "Digital Tele-interview System",
+      "actors": [
+        "Administrator/Recruiter",
+        "Interviewer",
+        "Candidate"
+      ]
     },
     {
       "id": "S16",
@@ -133,8 +175,14 @@
       "evidence": "Test report + quality checklist.",
       "file": "S08_Testing_Logging_Security_Quality_Review.html",
       "slide_count": 34,
-      "project": "Aplikasi Web Manajemen Tugas Magang",
-      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer"
+      "project": "Dashboard Web Admin/Recruiter Digital Tele-interview",
+      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer",
+      "case_study": "Digital Tele-interview System",
+      "actors": [
+        "Administrator/Recruiter",
+        "Interviewer",
+        "Candidate"
+      ]
     },
     {
       "id": "S17",
@@ -148,8 +196,14 @@
       "evidence": "Repository, README, demo, ERD, Postman.",
       "file": "S09_Finalisasi_Dokumentasi_Demo_Asesmen.html",
       "slide_count": 34,
-      "project": "Aplikasi Web Manajemen Tugas Magang",
-      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer"
+      "project": "Dashboard Web Admin/Recruiter Digital Tele-interview",
+      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer",
+      "case_study": "Digital Tele-interview System",
+      "actors": [
+        "Administrator/Recruiter",
+        "Interviewer",
+        "Candidate"
+      ]
     }
   ]
 }

@@ -28,8 +28,14 @@
       "evidence": "Repository + endpoint health.",
       "file": "S01_Setup_Project_Arsitektur_Spring_Boot_Dependency_Injection.html",
       "slide_count": 38,
-      "project": "Learning Log REST API",
-      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer"
+      "project": "Digital Tele-interview REST API",
+      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer",
+      "case_study": "Digital Tele-interview System",
+      "actors": [
+        "Administrator/Recruiter",
+        "Interviewer",
+        "Candidate"
+      ]
     },
     {
       "id": "S19",
@@ -43,8 +49,14 @@
       "evidence": "Request/response sample + code.",
       "file": "S02_REST_Controller_DTO_Mapping_Validation.html",
       "slide_count": 38,
-      "project": "Learning Log REST API",
-      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer"
+      "project": "Digital Tele-interview REST API",
+      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer",
+      "case_study": "Digital Tele-interview System",
+      "actors": [
+        "Administrator/Recruiter",
+        "Interviewer",
+        "Candidate"
+      ]
     },
     {
       "id": "S20",
@@ -58,8 +70,14 @@
       "evidence": "Schema + repository code.",
       "file": "S03_Spring_Data_JPA_Entity_Repository_Database.html",
       "slide_count": 38,
-      "project": "Learning Log REST API",
-      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer"
+      "project": "Digital Tele-interview REST API",
+      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer",
+      "case_study": "Digital Tele-interview System",
+      "actors": [
+        "Administrator/Recruiter",
+        "Interviewer",
+        "Candidate"
+      ]
     },
     {
       "id": "S21",
@@ -73,8 +91,14 @@
       "evidence": "Commit service + error examples.",
       "file": "S04_Service_Layer_Transaction_Exception_Handling.html",
       "slide_count": 38,
-      "project": "Learning Log REST API",
-      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer"
+      "project": "Digital Tele-interview REST API",
+      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer",
+      "case_study": "Digital Tele-interview System",
+      "actors": [
+        "Administrator/Recruiter",
+        "Interviewer",
+        "Candidate"
+      ]
     },
     {
       "id": "S22",
@@ -88,8 +112,14 @@
       "evidence": "OpenAPI draft + API demo.",
       "file": "S05_CRUD_API_Pagination_Sorting_Filtering.html",
       "slide_count": 38,
-      "project": "Learning Log REST API",
-      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer"
+      "project": "Digital Tele-interview REST API",
+      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer",
+      "case_study": "Digital Tele-interview System",
+      "actors": [
+        "Administrator/Recruiter",
+        "Interviewer",
+        "Candidate"
+      ]
     },
     {
       "id": "S23",
@@ -103,8 +133,14 @@
       "evidence": "Auth flow diagram + test evidence.",
       "file": "S06_Spring_Security_Dasar_JWT.html",
       "slide_count": 38,
-      "project": "Learning Log REST API",
-      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer"
+      "project": "Digital Tele-interview REST API",
+      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer",
+      "case_study": "Digital Tele-interview System",
+      "actors": [
+        "Administrator/Recruiter",
+        "Interviewer",
+        "Candidate"
+      ]
     },
     {
       "id": "S24",
@@ -118,8 +154,14 @@
       "evidence": "Test report + OpenAPI UI screenshot.",
       "file": "S07_JUnit_Mockito_Integration_Test_OpenAPI.html",
       "slide_count": 38,
-      "project": "Learning Log REST API",
-      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer"
+      "project": "Digital Tele-interview REST API",
+      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer",
+      "case_study": "Digital Tele-interview System",
+      "actors": [
+        "Administrator/Recruiter",
+        "Interviewer",
+        "Candidate"
+      ]
     },
     {
       "id": "S25",
@@ -133,8 +175,14 @@
       "evidence": "Config sample + log evidence.",
       "file": "S08_Configuration_Profiles_Logging_Observability_Quality_Gate.html",
       "slide_count": 38,
-      "project": "Learning Log REST API",
-      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer"
+      "project": "Digital Tele-interview REST API",
+      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer",
+      "case_study": "Digital Tele-interview System",
+      "actors": [
+        "Administrator/Recruiter",
+        "Interviewer",
+        "Candidate"
+      ]
     },
     {
       "id": "S26",
@@ -148,8 +196,14 @@
       "evidence": "Repository, README, OpenAPI, tests, demo.",
       "file": "S09_Finalisasi_Demo_Asesmen_Proyek_Java_Spring_Boot.html",
       "slide_count": 38,
-      "project": "Learning Log REST API",
-      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer"
+      "project": "Digital Tele-interview REST API",
+      "source_url": "https://wahabsukoraharjo.github.io/lts-td/program_magang_developer",
+      "case_study": "Digital Tele-interview System",
+      "actors": [
+        "Administrator/Recruiter",
+        "Interviewer",
+        "Candidate"
+      ]
     }
   ]
 }
